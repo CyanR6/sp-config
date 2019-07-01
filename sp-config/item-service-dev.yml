@@ -6,9 +6,6 @@ spring:
 #  port: 8001
 
 
-
- 
- 
  
 eureka:
   client:
